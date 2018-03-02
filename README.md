@@ -1,5 +1,10 @@
 # A simple current 5 day weather forecasting App
 
+## Live Demo
+
+https://muhammed-salman.github.io/weather5days/
+
+
 ## Instruction for running app on localhost
 
 1. Open your terminal and clone the app using command `git clone https://github.com/muhammed-salman/weather5days.git`
