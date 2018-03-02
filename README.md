@@ -26,4 +26,5 @@
 - UX can be improved
 - Weather forecasting can be displayed for mutiple days and more information can be displayed
 - I think some sort of analytics can also be done
+
 ** I'will update if I get more ideas **
