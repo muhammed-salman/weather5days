@@ -23,11 +23,11 @@ https://muhammed-salman.github.io/weather5days/
 4. `clean`: To remove the production build code
 5. `build`: To create a production build for deployment
 6. `serve`: To run webpack development server
-7. `deploy`: To deploy the App to github pages
+7. `deploy`: To deploy the App to github pages [Please change the repo url using `git remote` command before deployment (you can't push to my repo ;) )]
 
 ## What can be done with more time
 - App can be made responsive
-- Detailed test cases can be written
+- Detailed test cases can be written for each component
 - UX can be improved
 - Weather forecasting can be displayed for mutiple days and more information can be displayed
 - I think some sort of analytics can also be done
